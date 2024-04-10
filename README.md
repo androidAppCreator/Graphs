@@ -33,12 +33,7 @@ PieChartEntry(val pieArcName: String, val pieArcColor: Int, val pieArcValue: Flo
 ```
 2. Use PieChart composeable function to display Pie Chart, pass the PieChartEntry, along with animation duration and you can pass the PieChart Size.
 ```
-@Composable
-fun PieChartView(pieChartEntries: ArrayList<PieChartEntry>) {
-    Column(modifier = Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
-        PieChart(pieChartEntries = pieChartEntries, animDuration = 2000, pieChartSize = 180.dp)
-    }
-}
+ PieChart( // PieChart Entries, animDuration = 2000, pieChartSize = 180.dp)    
 ```
 
 ## 2. Android Bar Graph with Compose, Compose Animation and Kotlin
