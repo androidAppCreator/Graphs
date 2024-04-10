@@ -15,7 +15,10 @@ This repository demonstrates how to create a pie chart with legends in an Androi
 
 ### Installation
 1. Clone this repository to your local machine:
-> https://github.com/androidAppCreator/Graphs.git
+```
+https://github.com/androidAppCreator/Graphs.git
+```
+
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or a physical device.
 
