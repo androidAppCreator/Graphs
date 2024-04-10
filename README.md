@@ -3,7 +3,7 @@
 ## 1. Android Pie Chart using Jetpack Compose, Compose Animation and Kotlin
 This repository demonstrates how to create a pie chart with animation along with legends in an Android app using Jetpack Compose and Kotlin. The application visualizes data using a pie chart along with legends, providing an intuitive representation of data distribution.
 
-https://github.com/androidAppCreator/Graphs/assets/155815743/2d72212c-1db7-4e8b-84ea-4bc8fbd84bb0
+![](https://github.com/androidAppCreator/Graphs/assets/155815743/2d72212c-1db7-4e8b-84ea-4bc8fbd84bb0)
 
 ### Features
 * Pie chart visualization using Jetpack Compose.
