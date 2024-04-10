@@ -70,7 +70,7 @@ BarChartEntry(val barValueName: String, val barValueCount: Float, val barValueIc
 ```
 2. Use BarGraph() composeable function to display the Bar Chart.
 ```
-BarGraph(//Bar chart Entried)
+BarGraph(//Bar chart Entries)
 ````
 
 ### Acknowledgments
